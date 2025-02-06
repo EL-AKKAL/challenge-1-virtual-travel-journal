@@ -15,6 +15,6 @@ php artisan migrate
 php artisan serve
 ```
 
-## License
+## Description
 
 first week of "project per week" challenge
